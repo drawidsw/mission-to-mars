@@ -1,6 +1,6 @@
 # Overview
 
-In this project, web scraping of a website is performed by using the Python's **Beautifulsoup** library. Scraped contents are pushed into a **Mongodb** table and retrieved via a python **Flask** application server. The application server renders an HTMP page and serves dynamic content by using **Jinja2** templating. The following diagram shows the flow.
+In this project, web scraping of a website is performed by using the Python's **Beautifulsoup** library. Scraped contents are pushed into a **Mongodb** table and retrieved via a python **Flask** application server. The application server renders an HTML page and serves dynamic content in it by using **Jinja2** templating. The following diagram shows the flow.
 
 ![image_name](images/flow.png)
 
