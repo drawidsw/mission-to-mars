@@ -28,3 +28,17 @@ We can see from the three examples below that Mobile support is activated for th
 ### Iphone 5: Narrowest Display
 ![IPhone](images/iphone5.png)
 
+## Enhance Components using Bootstrap
+
+Image Thumbnails code (**img-thumbnail** class was added):
+
+```
+<img src="{{hemisphere.img_url | default('static/images/error.png', true)}}" alt="..." class="img-thumbnail" width="304" height="236">
+```
+
+Button outline code (**btn-outline-dark** class was added):
+
+```
+<p><a class="btn btn-primary btn-lg btn-outline-dark" href="/scrape" role="button">Scrape New Data</a></p>
+
+```
