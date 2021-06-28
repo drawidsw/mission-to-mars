@@ -26,5 +26,5 @@ We can see from the three examples below that Mobile support is activated for th
 ![Pixel2](images/pixel2.png)
 
 ### Iphone 5: Narrowest Display
-![IPhone](images/iphone.png)
+![IPhone](images/iphone5.png)
 
