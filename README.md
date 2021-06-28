@@ -12,7 +12,7 @@ The Jupyter file is uploaded. Here, image links and titles of the four Mars hemi
 
 The code is put into a Flasp application. This application renders **index.html** by calling the **scrape()** function (in *app.py*). Behind the scenes, the function **mars_imgs()** is called that scrapes the external URL and gets the titles and image links. Finally, dynamic content is loaded into the **index.html** page, where **Jinja2** templating is used. 
 
-# Deliverable three
+# Deliverable Three
 
 ## Mobile support
 
