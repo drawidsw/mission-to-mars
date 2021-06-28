@@ -18,5 +18,13 @@ The code is put into a Flasp application. This application renders **index.html*
 
 We can see from the three examples below that Mobile support is activated for the web page by making the page responsive.
 
+### IPAD: Wider Display
+
 ![IPAD](images/ipad.png)
+
+### Pixel 2: Narrower Display
+![Pixel2](images/pixel2.png)
+
+### Iphone 5: Narrowest Display
+![IPhone](images/iphone.png)
 
